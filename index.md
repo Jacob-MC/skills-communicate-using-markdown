@@ -5,3 +5,7 @@
 ```
 var myVar = "Hello, world!";
 ```
+
+- [ ] Do Homework
+- [ ] Stop Procrastinating
+- [ ] Lock in
